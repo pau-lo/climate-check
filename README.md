@@ -1,2 +1,2 @@
 # climate-check
-Weather app built on Django
+Weather app built in Django
